@@ -1,0 +1,12 @@
+{
+        "python.autoComplete.extraPaths": [
+            "./search",
+            "./multiagent"
+        ],
+        "python.formatting.provider": "yapf",
+        "python.analysis.extraPaths": [
+            "./search",
+            "./multiagent"
+        ]
+    
+}
